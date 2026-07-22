@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+analysis/macro_avg.parquet
+analysis/*.png
+.DS_Store

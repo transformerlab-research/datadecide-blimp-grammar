@@ -1,0 +1,26 @@
+name: mixtape-sweep-90m-v2
+# BLiMP minimal-pair evaluation across the DataDecide 25-recipe grid at 90M.
+# v2 of the main sweep. v1 (job 53803a02) computed all 75 cells correctly but wrote
+# per-cell results to stdout only; the data was lost when the Lambda instance
+# terminated. This version persists results via lab.save_artifact after EVERY recipe.
+# See SWEEP-90M-DATA-LOSS.md.
+resources:
+  accelerators: "A10:1"        # models are 4M-1B; A10 24GB is ample
+  cpus: 4
+  memory: 16
+  disk_space: 200               # HF cache for 5 checkpoints + deps
+  compute_provider: lambda
+setup: |
+  # Pinned stack — see stages/s5-experimentation/runs/ENVIRONMENT.md.
+  # DataDecide checkpoints are `model_type: hf_olmo` (original ai2-olmo arch),
+  # NOT transformers-native olmo/olmo2, and ship no remote code. ai2-olmo must be
+  # installed to register the architecture.
+  # Version window is narrow and was found by trial:
+  #   transformers 4.44.2 -> tokenizer fails (needs tokenizers>=0.20)
+  #   transformers 5.x    -> AttributeError: no attribute 'all_tied_weights_keys'
+  #   transformers 4.49.0 -> works
+  # Plain pip into the lab venv (uv --system installs into the wrong interpreter here).
+  pip install -q --upgrade pip
+  pip install -q "ai2-olmo" "transformers==4.49.0" "tokenizers>=0.20" datasets transformerlab
+  python3 -c "import hf_olmo, transformers, torch; print('SETUP_OK', transformers.__version__, torch.__version__, 'cuda', torch.cuda.is_available())"
+run: python3 main.py

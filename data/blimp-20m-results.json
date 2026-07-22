@@ -1,0 +1,2927 @@
+{
+ "c4|20M|default": {
+  "recipe": "c4",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7943333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.868,
+    "n": 1000,
+    "z": 23.274363578839274
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.978,
+    "n": 1000,
+    "z": 30.23137443120971
+   },
+   "npi_present_1": {
+    "acc": 0.543,
+    "n": 1000,
+    "z": 2.7195587877448086
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.696,
+    "n": 1000,
+    "z": 12.396128427860045
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.877,
+    "n": 1000,
+    "z": 23.843573557669583
+   },
+   "animate_subject_passive": {
+    "acc": 0.804,
+    "n": 1000,
+    "z": 19.22664817382375
+   }
+  }
+ },
+ "c4|20M|small-aux-2": {
+  "recipe": "c4",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.786,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.756,
+    "n": 1000,
+    "z": 16.190861620062105
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.979,
+    "n": 1000,
+    "z": 30.294619984413075
+   },
+   "npi_present_1": {
+    "acc": 0.576,
+    "n": 1000,
+    "z": 4.806662043455934
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.7,
+    "n": 1000,
+    "z": 12.649110640673515
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.929,
+    "n": 1000,
+    "z": 27.1323423242447
+   },
+   "animate_subject_passive": {
+    "acc": 0.776,
+    "n": 1000,
+    "z": 17.455772684129457
+   }
+  }
+ },
+ "c4|20M|small-aux-3": {
+  "recipe": "c4",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7695,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.806,
+    "n": 1000,
+    "z": 19.353139280230486
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.474,
+    "n": 1000,
+    "z": -1.6443843832875589
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.695,
+    "n": 1000,
+    "z": 12.332882874656677
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.896,
+    "n": 1000,
+    "z": 25.04523906853357
+   },
+   "animate_subject_passive": {
+    "acc": 0.766,
+    "n": 1000,
+    "z": 16.82331715209578
+   }
+  }
+ },
+ "dclm-baseline|20M|default": {
+  "recipe": "dclm-baseline",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7833333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.758,
+    "n": 1000,
+    "z": 16.31735272646884
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.985,
+    "n": 1000,
+    "z": 30.67409330363328
+   },
+   "npi_present_1": {
+    "acc": 0.561,
+    "n": 1000,
+    "z": 3.8579787454054264
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.722,
+    "n": 1000,
+    "z": 14.040512811147604
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.889,
+    "n": 1000,
+    "z": 24.602520196109992
+   },
+   "animate_subject_passive": {
+    "acc": 0.785,
+    "n": 1000,
+    "z": 18.024982662959765
+   }
+  }
+ },
+ "dclm-baseline|20M|small-aux-2": {
+  "recipe": "dclm-baseline",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.768,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.786,
+    "n": 1000,
+    "z": 18.088228216163134
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.969,
+    "n": 1000,
+    "z": 29.662164452379397
+   },
+   "npi_present_1": {
+    "acc": 0.479,
+    "n": 1000,
+    "z": -1.3281566172707207
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.703,
+    "n": 1000,
+    "z": 12.838847300283618
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.896,
+    "n": 1000,
+    "z": 25.04523906853357
+   },
+   "animate_subject_passive": {
+    "acc": 0.775,
+    "n": 1000,
+    "z": 17.392527130926087
+   }
+  }
+ },
+ "dclm-baseline|20M|small-aux-3": {
+  "recipe": "dclm-baseline",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7671666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.743,
+    "n": 1000,
+    "z": 15.368669428418324
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.574,
+    "n": 1000,
+    "z": 4.680170937049199
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.675,
+    "n": 1000,
+    "z": 11.06797181058933
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.869,
+    "n": 1000,
+    "z": 23.33760913204264
+   },
+   "animate_subject_passive": {
+    "acc": 0.762,
+    "n": 1000,
+    "z": 16.570334939282308
+   }
+  }
+ },
+ "dclm-baseline-qc-10p|20M|default": {
+  "recipe": "dclm-baseline-qc-10p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7671666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.697,
+    "n": 1000,
+    "z": 12.459373981063413
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.973,
+    "n": 1000,
+    "z": 29.915146665192868
+   },
+   "npi_present_1": {
+    "acc": 0.602,
+    "n": 1000,
+    "z": 6.451046426743493
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.714,
+    "n": 1000,
+    "z": 13.534548385520662
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.866,
+    "n": 1000,
+    "z": 23.14787247243254
+   },
+   "animate_subject_passive": {
+    "acc": 0.751,
+    "n": 1000,
+    "z": 15.874633854045266
+   }
+  }
+ },
+ "dclm-baseline-qc-10p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-qc-10p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7288333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.668,
+    "n": 1000,
+    "z": 10.625252938165758
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.975,
+    "n": 1000,
+    "z": 30.041637771599603
+   },
+   "npi_present_1": {
+    "acc": 0.45,
+    "n": 1000,
+    "z": -3.1622776601683786
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.652,
+    "n": 1000,
+    "z": 9.613324086911875
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.865,
+    "n": 1000,
+    "z": 23.08462691922917
+   },
+   "animate_subject_passive": {
+    "acc": 0.763,
+    "n": 1000,
+    "z": 16.633580492485677
+   }
+  }
+ },
+ "dclm-baseline-qc-10p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-qc-10p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7396666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.606,
+    "n": 1000,
+    "z": 6.704028639556964
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.983,
+    "n": 1000,
+    "z": 30.547602197226546
+   },
+   "npi_present_1": {
+    "acc": 0.549,
+    "n": 1000,
+    "z": 3.099032106965015
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.69,
+    "n": 1000,
+    "z": 12.016655108639839
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.881,
+    "n": 1000,
+    "z": 24.096555770483054
+   },
+   "animate_subject_passive": {
+    "acc": 0.729,
+    "n": 1000,
+    "z": 14.483231683571177
+   }
+  }
+ },
+ "dclm-baseline-qc-20p|20M|default": {
+  "recipe": "dclm-baseline-qc-20p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7373333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.73,
+    "n": 1000,
+    "z": 14.546477236774544
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.977,
+    "n": 1000,
+    "z": 30.16812887800634
+   },
+   "npi_present_1": {
+    "acc": 0.38,
+    "n": 1000,
+    "z": -7.589466384404111
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.653,
+    "n": 1000,
+    "z": 9.676569640115243
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.931,
+    "n": 1000,
+    "z": 27.258833430651435
+   },
+   "animate_subject_passive": {
+    "acc": 0.753,
+    "n": 1000,
+    "z": 16.001124960452
+   }
+  }
+ },
+ "dclm-baseline-qc-20p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-qc-20p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7796666666666666,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.723,
+    "n": 1000,
+    "z": 14.103758364350972
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.982,
+    "n": 1000,
+    "z": 30.484356644023176
+   },
+   "npi_present_1": {
+    "acc": 0.625,
+    "n": 1000,
+    "z": 7.905694150420949
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.724,
+    "n": 1000,
+    "z": 14.16700391755434
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.871,
+    "n": 1000,
+    "z": 23.464100238449376
+   },
+   "animate_subject_passive": {
+    "acc": 0.753,
+    "n": 1000,
+    "z": 16.001124960452
+   }
+  }
+ },
+ "dclm-baseline-qc-20p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-qc-20p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7368333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.734,
+    "n": 1000,
+    "z": 14.799459449588015
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.983,
+    "n": 1000,
+    "z": 30.547602197226546
+   },
+   "npi_present_1": {
+    "acc": 0.441,
+    "n": 1000,
+    "z": -3.7314876389986877
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.666,
+    "n": 1000,
+    "z": 10.498761831759023
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.852,
+    "n": 1000,
+    "z": 22.26243472758539
+   },
+   "animate_subject_passive": {
+    "acc": 0.745,
+    "n": 1000,
+    "z": 15.49516053482506
+   }
+  }
+ },
+ "dclm-baseline-qc-7p-fw2|20M|default": {
+  "recipe": "dclm-baseline-qc-7p-fw2",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.751,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.613,
+    "n": 1000,
+    "z": 7.1467475119805375
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.977,
+    "n": 1000,
+    "z": 30.16812887800634
+   },
+   "npi_present_1": {
+    "acc": 0.502,
+    "n": 1000,
+    "z": 0.1264911064067353
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.75,
+    "n": 1000,
+    "z": 15.811388300841898
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.909,
+    "n": 1000,
+    "z": 25.867431260177348
+   },
+   "animate_subject_passive": {
+    "acc": 0.755,
+    "n": 1000,
+    "z": 16.127616066858735
+   }
+  }
+ },
+ "dclm-baseline-qc-7p-fw2|20M|small-aux-2": {
+  "recipe": "dclm-baseline-qc-7p-fw2",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7736666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.677,
+    "n": 1000,
+    "z": 11.194462916996066
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.977,
+    "n": 1000,
+    "z": 30.16812887800634
+   },
+   "npi_present_1": {
+    "acc": 0.561,
+    "n": 1000,
+    "z": 3.8579787454054264
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.732,
+    "n": 1000,
+    "z": 14.67296834318128
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.93,
+    "n": 1000,
+    "z": 27.195587877448066
+   },
+   "animate_subject_passive": {
+    "acc": 0.765,
+    "n": 1000,
+    "z": 16.760071598892413
+   }
+  }
+ },
+ "dclm-baseline-qc-7p-fw2|20M|small-aux-3": {
+  "recipe": "dclm-baseline-qc-7p-fw2",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7548333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.592,
+    "n": 1000,
+    "z": 5.818590894709817
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.972,
+    "n": 1000,
+    "z": 29.851901111989502
+   },
+   "npi_present_1": {
+    "acc": 0.567,
+    "n": 1000,
+    "z": 4.237452064625625
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.774,
+    "n": 1000,
+    "z": 17.32928157772272
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.89,
+    "n": 1000,
+    "z": 24.665765749313362
+   },
+   "animate_subject_passive": {
+    "acc": 0.734,
+    "n": 1000,
+    "z": 14.799459449588015
+   }
+  }
+ },
+ "dclm-baseline-qc-7p-fw3|20M|default": {
+  "recipe": "dclm-baseline-qc-7p-fw3",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7088333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.509,
+    "n": 1000,
+    "z": 0.5692099788303088
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.947,
+    "n": 1000,
+    "z": 28.27076228190531
+   },
+   "npi_present_1": {
+    "acc": 0.521,
+    "n": 1000,
+    "z": 1.3281566172707207
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.687,
+    "n": 1000,
+    "z": 11.826918449029742
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.871,
+    "n": 1000,
+    "z": 23.464100238449376
+   },
+   "animate_subject_passive": {
+    "acc": 0.718,
+    "n": 1000,
+    "z": 13.787530598334133
+   }
+  }
+ },
+ "dclm-baseline-qc-7p-fw3|20M|small-aux-2": {
+  "recipe": "dclm-baseline-qc-7p-fw3",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7123333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.468,
+    "n": 1000,
+    "z": -2.0238577025077613
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.951,
+    "n": 1000,
+    "z": 28.52374449471878
+   },
+   "npi_present_1": {
+    "acc": 0.571,
+    "n": 1000,
+    "z": 4.490434277439096
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.655,
+    "n": 1000,
+    "z": 9.803060746521979
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.916,
+    "n": 1000,
+    "z": 26.31015013260092
+   },
+   "animate_subject_passive": {
+    "acc": 0.713,
+    "n": 1000,
+    "z": 13.471302832317294
+   }
+  }
+ },
+ "dclm-baseline-qc-7p-fw3|20M|small-aux-3": {
+  "recipe": "dclm-baseline-qc-7p-fw3",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7208333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.528,
+    "n": 1000,
+    "z": 1.7708754896942942
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.958,
+    "n": 1000,
+    "z": 28.966463367142353
+   },
+   "npi_present_1": {
+    "acc": 0.473,
+    "n": 1000,
+    "z": -1.7076299364909264
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.699,
+    "n": 1000,
+    "z": 12.585865087470149
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.951,
+    "n": 1000,
+    "z": 28.52374449471878
+   },
+   "animate_subject_passive": {
+    "acc": 0.716,
+    "n": 1000,
+    "z": 13.661039491927397
+   }
+  }
+ },
+ "dclm-baseline-qc-fw-10p|20M|default": {
+  "recipe": "dclm-baseline-qc-fw-10p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7206666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.593,
+    "n": 1000,
+    "z": 5.881836447913184
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.958,
+    "n": 1000,
+    "z": 28.966463367142353
+   },
+   "npi_present_1": {
+    "acc": 0.563,
+    "n": 1000,
+    "z": 3.984469851812155
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.618,
+    "n": 1000,
+    "z": 7.4629752779973755
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.887,
+    "n": 1000,
+    "z": 24.476029089703257
+   },
+   "animate_subject_passive": {
+    "acc": 0.705,
+    "n": 1000,
+    "z": 12.965338406690353
+   }
+  }
+ },
+ "dclm-baseline-qc-fw-10p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-qc-fw-10p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7163333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.508,
+    "n": 1000,
+    "z": 0.5059644256269412
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.967,
+    "n": 1000,
+    "z": 29.53567334597266
+   },
+   "npi_present_1": {
+    "acc": 0.508,
+    "n": 1000,
+    "z": 0.5059644256269412
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.696,
+    "n": 1000,
+    "z": 12.396128427860045
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.884,
+    "n": 1000,
+    "z": 24.286292430093155
+   },
+   "animate_subject_passive": {
+    "acc": 0.735,
+    "n": 1000,
+    "z": 14.862705002791383
+   }
+  }
+ },
+ "dclm-baseline-qc-fw-10p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-qc-fw-10p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7021666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.541,
+    "n": 1000,
+    "z": 2.5930676813380735
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.957,
+    "n": 1000,
+    "z": 28.903217813938987
+   },
+   "npi_present_1": {
+    "acc": 0.434,
+    "n": 1000,
+    "z": -4.174206511422261
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.671,
+    "n": 1000,
+    "z": 10.814989597775861
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.856,
+    "n": 1000,
+    "z": 22.51541694039886
+   },
+   "animate_subject_passive": {
+    "acc": 0.754,
+    "n": 1000,
+    "z": 16.06437051365537
+   }
+  }
+ },
+ "dclm-baseline-qc-fw-3p|20M|default": {
+  "recipe": "dclm-baseline-qc-fw-3p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7075,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.46,
+    "n": 1000,
+    "z": -2.529822128134702
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.943,
+    "n": 1000,
+    "z": 28.017780069091838
+   },
+   "npi_present_1": {
+    "acc": 0.554,
+    "n": 1000,
+    "z": 3.415259872981853
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.673,
+    "n": 1000,
+    "z": 10.941480704182595
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.903,
+    "n": 1000,
+    "z": 25.48795794095714
+   },
+   "animate_subject_passive": {
+    "acc": 0.712,
+    "n": 1000,
+    "z": 13.408057279113928
+   }
+  }
+ },
+ "dclm-baseline-qc-fw-3p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-qc-fw-3p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7101666666666666,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.471,
+    "n": 1000,
+    "z": -1.8341210428976618
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.944,
+    "n": 1000,
+    "z": 28.081025622295208
+   },
+   "npi_present_1": {
+    "acc": 0.604,
+    "n": 1000,
+    "z": 6.577537533150228
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.673,
+    "n": 1000,
+    "z": 10.941480704182595
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.88,
+    "n": 1000,
+    "z": 24.033310217279684
+   },
+   "animate_subject_passive": {
+    "acc": 0.689,
+    "n": 1000,
+    "z": 11.95340955543647
+   }
+  }
+ },
+ "dclm-baseline-qc-fw-3p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-qc-fw-3p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7085,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.551,
+    "n": 1000,
+    "z": 3.22552321337175
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.939,
+    "n": 1000,
+    "z": 27.76479785627837
+   },
+   "npi_present_1": {
+    "acc": 0.509,
+    "n": 1000,
+    "z": 0.5692099788303088
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.65,
+    "n": 1000,
+    "z": 9.48683298050514
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.877,
+    "n": 1000,
+    "z": 23.843573557669583
+   },
+   "animate_subject_passive": {
+    "acc": 0.725,
+    "n": 1000,
+    "z": 14.230249470757707
+   }
+  }
+ },
+ "dclm-baseline-25p-dolma1.7-75p|20M|default": {
+  "recipe": "dclm-baseline-25p-dolma1.7-75p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7901666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.828,
+    "n": 1000,
+    "z": 20.744541450704567
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.986,
+    "n": 1000,
+    "z": 30.737338856836647
+   },
+   "npi_present_1": {
+    "acc": 0.482,
+    "n": 1000,
+    "z": -1.1384199576606175
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.72,
+    "n": 1000,
+    "z": 13.914021704740868
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.931,
+    "n": 1000,
+    "z": 27.258833430651435
+   },
+   "animate_subject_passive": {
+    "acc": 0.794,
+    "n": 1000,
+    "z": 18.594192641790073
+   }
+  }
+ },
+ "dclm-baseline-25p-dolma1.7-75p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-25p-dolma1.7-75p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7378333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.704,
+    "n": 1000,
+    "z": 12.902092853486986
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.978,
+    "n": 1000,
+    "z": 30.23137443120971
+   },
+   "npi_present_1": {
+    "acc": 0.456,
+    "n": 1000,
+    "z": -2.782804340948173
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.691,
+    "n": 1000,
+    "z": 12.079900661843206
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.826,
+    "n": 1000,
+    "z": 20.61805034429783
+   },
+   "animate_subject_passive": {
+    "acc": 0.772,
+    "n": 1000,
+    "z": 17.202790471315986
+   }
+  }
+ },
+ "dclm-baseline-25p-dolma1.7-75p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-25p-dolma1.7-75p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7933333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.864,
+    "n": 1000,
+    "z": 23.021381366025803
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.982,
+    "n": 1000,
+    "z": 30.484356644023176
+   },
+   "npi_present_1": {
+    "acc": 0.473,
+    "n": 1000,
+    "z": -1.7076299364909264
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.763,
+    "n": 1000,
+    "z": 16.633580492485677
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.888,
+    "n": 1000,
+    "z": 24.539274642906626
+   },
+   "animate_subject_passive": {
+    "acc": 0.79,
+    "n": 1000,
+    "z": 18.341210428976602
+   }
+  }
+ },
+ "dclm-baseline-50p-dolma1.7-50p|20M|default": {
+  "recipe": "dclm-baseline-50p-dolma1.7-50p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7573333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.659,
+    "n": 1000,
+    "z": 10.056042959335448
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.532,
+    "n": 1000,
+    "z": 2.023857702507765
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.738,
+    "n": 1000,
+    "z": 15.052441662401487
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.862,
+    "n": 1000,
+    "z": 22.894890259619068
+   },
+   "animate_subject_passive": {
+    "acc": 0.773,
+    "n": 1000,
+    "z": 17.266036024519355
+   }
+  }
+ },
+ "dclm-baseline-50p-dolma1.7-50p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-50p-dolma1.7-50p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7823333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.716,
+    "n": 1000,
+    "z": 13.661039491927397
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.975,
+    "n": 1000,
+    "z": 30.041637771599603
+   },
+   "npi_present_1": {
+    "acc": 0.541,
+    "n": 1000,
+    "z": 2.5930676813380735
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.756,
+    "n": 1000,
+    "z": 16.190861620062105
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.92,
+    "n": 1000,
+    "z": 26.56313234541439
+   },
+   "animate_subject_passive": {
+    "acc": 0.786,
+    "n": 1000,
+    "z": 18.088228216163134
+   }
+  }
+ },
+ "dclm-baseline-50p-dolma1.7-50p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-50p-dolma1.7-50p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7621666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.82,
+    "n": 1000,
+    "z": 20.238577025077625
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.988,
+    "n": 1000,
+    "z": 30.863829963243383
+   },
+   "npi_present_1": {
+    "acc": 0.451,
+    "n": 1000,
+    "z": -3.0990321069650113
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.683,
+    "n": 1000,
+    "z": 11.573936236216273
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.851,
+    "n": 1000,
+    "z": 22.199189174382024
+   },
+   "animate_subject_passive": {
+    "acc": 0.78,
+    "n": 1000,
+    "z": 17.708754896942928
+   }
+  }
+ },
+ "dclm-baseline-75p-dolma1.7-25p|20M|default": {
+  "recipe": "dclm-baseline-75p-dolma1.7-25p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7745,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.756,
+    "n": 1000,
+    "z": 16.190861620062105
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.978,
+    "n": 1000,
+    "z": 30.23137443120971
+   },
+   "npi_present_1": {
+    "acc": 0.503,
+    "n": 1000,
+    "z": 0.18973665961010294
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.714,
+    "n": 1000,
+    "z": 13.534548385520662
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.909,
+    "n": 1000,
+    "z": 25.867431260177348
+   },
+   "animate_subject_passive": {
+    "acc": 0.787,
+    "n": 1000,
+    "z": 18.1514737693665
+   }
+  }
+ },
+ "dclm-baseline-75p-dolma1.7-25p|20M|small-aux-2": {
+  "recipe": "dclm-baseline-75p-dolma1.7-25p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7796666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.739,
+    "n": 1000,
+    "z": 15.115687215604854
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.99,
+    "n": 1000,
+    "z": 30.99032106965012
+   },
+   "npi_present_1": {
+    "acc": 0.502,
+    "n": 1000,
+    "z": 0.1264911064067353
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.771,
+    "n": 1000,
+    "z": 17.13954491811262
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.919,
+    "n": 1000,
+    "z": 26.499886792211022
+   },
+   "animate_subject_passive": {
+    "acc": 0.757,
+    "n": 1000,
+    "z": 16.25410717326547
+   }
+  }
+ },
+ "dclm-baseline-75p-dolma1.7-25p|20M|small-aux-3": {
+  "recipe": "dclm-baseline-75p-dolma1.7-25p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7691666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.753,
+    "n": 1000,
+    "z": 16.001124960452
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.984,
+    "n": 1000,
+    "z": 30.61084775042991
+   },
+   "npi_present_1": {
+    "acc": 0.462,
+    "n": 1000,
+    "z": -2.403331021727967
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.761,
+    "n": 1000,
+    "z": 16.507089386078942
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.862,
+    "n": 1000,
+    "z": 22.894890259619068
+   },
+   "animate_subject_passive": {
+    "acc": 0.793,
+    "n": 1000,
+    "z": 18.530947088586707
+   }
+  }
+ },
+ "dolma1_6plus|20M|default": {
+  "recipe": "dolma1_6plus",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7626666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.755,
+    "n": 1000,
+    "z": 16.127616066858735
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.963,
+    "n": 1000,
+    "z": 29.282691133159194
+   },
+   "npi_present_1": {
+    "acc": 0.517,
+    "n": 1000,
+    "z": 1.07517440445725
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.683,
+    "n": 1000,
+    "z": 11.573936236216273
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.905,
+    "n": 1000,
+    "z": 25.614449047363877
+   },
+   "animate_subject_passive": {
+    "acc": 0.753,
+    "n": 1000,
+    "z": 16.001124960452
+   }
+  }
+ },
+ "dolma1_6plus|20M|small-aux-2": {
+  "recipe": "dolma1_6plus",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7373333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.793,
+    "n": 1000,
+    "z": 18.530947088586707
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.955,
+    "n": 1000,
+    "z": 28.77672670753225
+   },
+   "npi_present_1": {
+    "acc": 0.369,
+    "n": 1000,
+    "z": -8.285167469641154
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.687,
+    "n": 1000,
+    "z": 11.826918449029742
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.841,
+    "n": 1000,
+    "z": 21.566733642348346
+   },
+   "animate_subject_passive": {
+    "acc": 0.779,
+    "n": 1000,
+    "z": 17.64550934373956
+   }
+  }
+ },
+ "dolma1_6plus|20M|small-aux-3": {
+  "recipe": "dolma1_6plus",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7551666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.696,
+    "n": 1000,
+    "z": 12.396128427860045
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.983,
+    "n": 1000,
+    "z": 30.547602197226546
+   },
+   "npi_present_1": {
+    "acc": 0.518,
+    "n": 1000,
+    "z": 1.1384199576606175
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.688,
+    "n": 1000,
+    "z": 11.890164002233103
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.86,
+    "n": 1000,
+    "z": 22.768399153212332
+   },
+   "animate_subject_passive": {
+    "acc": 0.786,
+    "n": 1000,
+    "z": 18.088228216163134
+   }
+  }
+ },
+ "dolma1_7|20M|default": {
+  "recipe": "dolma1_7",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7488333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.701,
+    "n": 1000,
+    "z": 12.712356193876882
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.983,
+    "n": 1000,
+    "z": 30.547602197226546
+   },
+   "npi_present_1": {
+    "acc": 0.475,
+    "n": 1000,
+    "z": -1.581138830084191
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.718,
+    "n": 1000,
+    "z": 13.787530598334133
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.851,
+    "n": 1000,
+    "z": 22.199189174382024
+   },
+   "animate_subject_passive": {
+    "acc": 0.765,
+    "n": 1000,
+    "z": 16.760071598892413
+   }
+  }
+ },
+ "dolma1_7|20M|small-aux-2": {
+  "recipe": "dolma1_7",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7631666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.749,
+    "n": 1000,
+    "z": 15.74814274763853
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.968,
+    "n": 1000,
+    "z": 29.59891889917603
+   },
+   "npi_present_1": {
+    "acc": 0.479,
+    "n": 1000,
+    "z": -1.3281566172707207
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.685,
+    "n": 1000,
+    "z": 11.700427342623007
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.923,
+    "n": 1000,
+    "z": 26.752869005024493
+   },
+   "animate_subject_passive": {
+    "acc": 0.775,
+    "n": 1000,
+    "z": 17.392527130926087
+   }
+  }
+ },
+ "dolma1_7|20M|small-aux-3": {
+  "recipe": "dolma1_7",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7701666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.802,
+    "n": 1000,
+    "z": 19.100157067417015
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.97,
+    "n": 1000,
+    "z": 29.725410005582766
+   },
+   "npi_present_1": {
+    "acc": 0.47,
+    "n": 1000,
+    "z": -1.8973665961010293
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.71,
+    "n": 1000,
+    "z": 13.281566172707192
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.887,
+    "n": 1000,
+    "z": 24.476029089703257
+   },
+   "animate_subject_passive": {
+    "acc": 0.782,
+    "n": 1000,
+    "z": 17.835246003349663
+   }
+  }
+ },
+ "dolma1_7-no-flan|20M|default": {
+  "recipe": "dolma1_7-no-flan",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7728333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.757,
+    "n": 1000,
+    "z": 16.25410717326547
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.979,
+    "n": 1000,
+    "z": 30.294619984413075
+   },
+   "npi_present_1": {
+    "acc": 0.604,
+    "n": 1000,
+    "z": 6.577537533150228
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.661,
+    "n": 1000,
+    "z": 10.182534065742184
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.889,
+    "n": 1000,
+    "z": 24.602520196109992
+   },
+   "animate_subject_passive": {
+    "acc": 0.747,
+    "n": 1000,
+    "z": 15.621651641231795
+   }
+  }
+ },
+ "dolma1_7-no-flan|20M|small-aux-2": {
+  "recipe": "dolma1_7-no-flan",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7731666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.751,
+    "n": 1000,
+    "z": 15.874633854045266
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.971,
+    "n": 1000,
+    "z": 29.788655558786132
+   },
+   "npi_present_1": {
+    "acc": 0.588,
+    "n": 1000,
+    "z": 5.565608681896346
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.7,
+    "n": 1000,
+    "z": 12.649110640673515
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.859,
+    "n": 1000,
+    "z": 22.705153600008963
+   },
+   "animate_subject_passive": {
+    "acc": 0.77,
+    "n": 1000,
+    "z": 17.07629936490925
+   }
+  }
+ },
+ "dolma1_7-no-flan|20M|small-aux-3": {
+  "recipe": "dolma1_7-no-flan",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7666666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.757,
+    "n": 1000,
+    "z": 16.25410717326547
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.984,
+    "n": 1000,
+    "z": 30.61084775042991
+   },
+   "npi_present_1": {
+    "acc": 0.499,
+    "n": 1000,
+    "z": -0.06324555320336765
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.677,
+    "n": 1000,
+    "z": 11.194462916996066
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.917,
+    "n": 1000,
+    "z": 26.373395685804287
+   },
+   "animate_subject_passive": {
+    "acc": 0.766,
+    "n": 1000,
+    "z": 16.82331715209578
+   }
+  }
+ },
+ "dolma1_7-no-reddit|20M|default": {
+  "recipe": "dolma1_7-no-reddit",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7603333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.699,
+    "n": 1000,
+    "z": 12.585865087470149
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.969,
+    "n": 1000,
+    "z": 29.662164452379397
+   },
+   "npi_present_1": {
+    "acc": 0.513,
+    "n": 1000,
+    "z": 0.8221921916437794
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.7,
+    "n": 1000,
+    "z": 12.649110640673515
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.874,
+    "n": 1000,
+    "z": 23.653836898059478
+   },
+   "animate_subject_passive": {
+    "acc": 0.807,
+    "n": 1000,
+    "z": 19.416384833433852
+   }
+  }
+ },
+ "dolma1_7-no-reddit|20M|small-aux-2": {
+  "recipe": "dolma1_7-no-reddit",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.773,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.729,
+    "n": 1000,
+    "z": 14.483231683571177
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.97,
+    "n": 1000,
+    "z": 29.725410005582766
+   },
+   "npi_present_1": {
+    "acc": 0.533,
+    "n": 1000,
+    "z": 2.087103255711132
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.763,
+    "n": 1000,
+    "z": 16.633580492485677
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.863,
+    "n": 1000,
+    "z": 22.958135812822434
+   },
+   "animate_subject_passive": {
+    "acc": 0.78,
+    "n": 1000,
+    "z": 17.708754896942928
+   }
+  }
+ },
+ "dolma1_7-no-reddit|20M|small-aux-3": {
+  "recipe": "dolma1_7-no-reddit",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7813333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.731,
+    "n": 1000,
+    "z": 14.609722789977912
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.589,
+    "n": 1000,
+    "z": 5.6288542350997135
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.769,
+    "n": 1000,
+    "z": 17.013053811705884
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.863,
+    "n": 1000,
+    "z": 22.958135812822434
+   },
+   "animate_subject_passive": {
+    "acc": 0.756,
+    "n": 1000,
+    "z": 16.190861620062105
+   }
+  }
+ },
+ "dolma1_7-no-code|20M|default": {
+  "recipe": "dolma1_7-no-code",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7949999999999999,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.851,
+    "n": 1000,
+    "z": 22.199189174382024
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.979,
+    "n": 1000,
+    "z": 30.294619984413075
+   },
+   "npi_present_1": {
+    "acc": 0.615,
+    "n": 1000,
+    "z": 7.273238618387272
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.724,
+    "n": 1000,
+    "z": 14.16700391755434
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.844,
+    "n": 1000,
+    "z": 21.756470301958448
+   },
+   "animate_subject_passive": {
+    "acc": 0.757,
+    "n": 1000,
+    "z": 16.25410717326547
+   }
+  }
+ },
+ "dolma1_7-no-code|20M|small-aux-2": {
+  "recipe": "dolma1_7-no-code",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7751666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.769,
+    "n": 1000,
+    "z": 17.013053811705884
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.979,
+    "n": 1000,
+    "z": 30.294619984413075
+   },
+   "npi_present_1": {
+    "acc": 0.506,
+    "n": 1000,
+    "z": 0.3794733192202059
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.706,
+    "n": 1000,
+    "z": 13.028583959893721
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.914,
+    "n": 1000,
+    "z": 26.183659026194185
+   },
+   "animate_subject_passive": {
+    "acc": 0.777,
+    "n": 1000,
+    "z": 17.519018237332823
+   }
+  }
+ },
+ "dolma1_7-no-code|20M|small-aux-3": {
+  "recipe": "dolma1_7-no-code",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7898333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.784,
+    "n": 1000,
+    "z": 17.9617371097564
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.973,
+    "n": 1000,
+    "z": 29.915146665192868
+   },
+   "npi_present_1": {
+    "acc": 0.592,
+    "n": 1000,
+    "z": 5.818590894709817
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.705,
+    "n": 1000,
+    "z": 12.965338406690353
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.886,
+    "n": 1000,
+    "z": 24.41278353649989
+   },
+   "animate_subject_passive": {
+    "acc": 0.799,
+    "n": 1000,
+    "z": 18.910420407806914
+   }
+  }
+ },
+ "dolma1_7-no-math-code|20M|default": {
+  "recipe": "dolma1_7-no-math-code",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.7776666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.804,
+    "n": 1000,
+    "z": 19.22664817382375
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.979,
+    "n": 1000,
+    "z": 30.294619984413075
+   },
+   "npi_present_1": {
+    "acc": 0.503,
+    "n": 1000,
+    "z": 0.18973665961010294
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.739,
+    "n": 1000,
+    "z": 15.115687215604854
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.877,
+    "n": 1000,
+    "z": 23.843573557669583
+   },
+   "animate_subject_passive": {
+    "acc": 0.764,
+    "n": 1000,
+    "z": 16.696826045689043
+   }
+  }
+ },
+ "dolma1_7-no-math-code|20M|small-aux-2": {
+  "recipe": "dolma1_7-no-math-code",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7661666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.673,
+    "n": 1000,
+    "z": 10.941480704182595
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.968,
+    "n": 1000,
+    "z": 29.59891889917603
+   },
+   "npi_present_1": {
+    "acc": 0.542,
+    "n": 1000,
+    "z": 2.6563132345414413
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.736,
+    "n": 1000,
+    "z": 14.925950555994751
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.886,
+    "n": 1000,
+    "z": 24.41278353649989
+   },
+   "animate_subject_passive": {
+    "acc": 0.792,
+    "n": 1000,
+    "z": 18.467701535383338
+   }
+  }
+ },
+ "dolma1_7-no-math-code|20M|small-aux-3": {
+  "recipe": "dolma1_7-no-math-code",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.771,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.848,
+    "n": 1000,
+    "z": 22.00945251477192
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.985,
+    "n": 1000,
+    "z": 30.67409330363328
+   },
+   "npi_present_1": {
+    "acc": 0.497,
+    "n": 1000,
+    "z": -0.18973665961010294
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.663,
+    "n": 1000,
+    "z": 10.30902517214892
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.869,
+    "n": 1000,
+    "z": 23.33760913204264
+   },
+   "animate_subject_passive": {
+    "acc": 0.764,
+    "n": 1000,
+    "z": 16.696826045689043
+   }
+  }
+ },
+ "falcon|20M|default": {
+  "recipe": "falcon",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.762,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.78,
+    "n": 1000,
+    "z": 17.708754896942928
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.542,
+    "n": 1000,
+    "z": 2.6563132345414413
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.599,
+    "n": 1000,
+    "z": 6.26130976713339
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.894,
+    "n": 1000,
+    "z": 24.918747962126833
+   },
+   "animate_subject_passive": {
+    "acc": 0.777,
+    "n": 1000,
+    "z": 17.519018237332823
+   }
+  }
+ },
+ "falcon|20M|small-aux-2": {
+  "recipe": "falcon",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7945,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.826,
+    "n": 1000,
+    "z": 20.61805034429783
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.973,
+    "n": 1000,
+    "z": 29.915146665192868
+   },
+   "npi_present_1": {
+    "acc": 0.567,
+    "n": 1000,
+    "z": 4.237452064625625
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.703,
+    "n": 1000,
+    "z": 12.838847300283618
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.919,
+    "n": 1000,
+    "z": 26.499886792211022
+   },
+   "animate_subject_passive": {
+    "acc": 0.779,
+    "n": 1000,
+    "z": 17.64550934373956
+   }
+  }
+ },
+ "falcon|20M|small-aux-3": {
+  "recipe": "falcon",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7865,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.817,
+    "n": 1000,
+    "z": 20.048840365467523
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.976,
+    "n": 1000,
+    "z": 30.104883324802973
+   },
+   "npi_present_1": {
+    "acc": 0.553,
+    "n": 1000,
+    "z": 3.352014319778485
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.713,
+    "n": 1000,
+    "z": 13.471302832317294
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.884,
+    "n": 1000,
+    "z": 24.286292430093155
+   },
+   "animate_subject_passive": {
+    "acc": 0.776,
+    "n": 1000,
+    "z": 17.455772684129457
+   }
+  }
+ },
+ "falcon-and-cc|20M|default": {
+  "recipe": "falcon-and-cc",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14594-seed-default",
+  "macro": 0.792,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.74,
+    "n": 1000,
+    "z": 15.178932768808222
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.547,
+    "n": 1000,
+    "z": 2.9725410005582793
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.769,
+    "n": 1000,
+    "z": 17.013053811705884
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.902,
+    "n": 1000,
+    "z": 25.42471238775377
+   },
+   "animate_subject_passive": {
+    "acc": 0.814,
+    "n": 1000,
+    "z": 19.85910370585742
+   }
+  }
+ },
+ "falcon-and-cc|20M|small-aux-2": {
+  "recipe": "falcon-and-cc",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7936666666666666,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.815,
+    "n": 1000,
+    "z": 19.922349259060788
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.983,
+    "n": 1000,
+    "z": 30.547602197226546
+   },
+   "npi_present_1": {
+    "acc": 0.607,
+    "n": 1000,
+    "z": 6.767274192760331
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.757,
+    "n": 1000,
+    "z": 16.25410717326547
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.816,
+    "n": 1000,
+    "z": 19.985594812264154
+   },
+   "animate_subject_passive": {
+    "acc": 0.784,
+    "n": 1000,
+    "z": 17.9617371097564
+   }
+  }
+ },
+ "falcon-and-cc|20M|small-aux-3": {
+  "recipe": "falcon-and-cc",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.771,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.763,
+    "n": 1000,
+    "z": 16.633580492485677
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.972,
+    "n": 1000,
+    "z": 29.851901111989502
+   },
+   "npi_present_1": {
+    "acc": 0.635,
+    "n": 1000,
+    "z": 8.538149682454625
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.655,
+    "n": 1000,
+    "z": 9.803060746521979
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.84,
+    "n": 1000,
+    "z": 21.50348808914498
+   },
+   "animate_subject_passive": {
+    "acc": 0.761,
+    "n": 1000,
+    "z": 16.507089386078942
+   }
+  }
+ },
+ "falcon-and-cc-qc-10p|20M|default": {
+  "recipe": "falcon-and-cc-qc-10p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7811666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.798,
+    "n": 1000,
+    "z": 18.847174854603544
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.981,
+    "n": 1000,
+    "z": 30.42111109081981
+   },
+   "npi_present_1": {
+    "acc": 0.553,
+    "n": 1000,
+    "z": 3.352014319778485
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.69,
+    "n": 1000,
+    "z": 12.016655108639839
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.892,
+    "n": 1000,
+    "z": 24.792256855720098
+   },
+   "animate_subject_passive": {
+    "acc": 0.773,
+    "n": 1000,
+    "z": 17.266036024519355
+   }
+  }
+ },
+ "falcon-and-cc-qc-10p|20M|small-aux-2": {
+  "recipe": "falcon-and-cc-qc-10p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7685,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.718,
+    "n": 1000,
+    "z": 13.787530598334133
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.492,
+    "n": 1000,
+    "z": -0.5059644256269412
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.74,
+    "n": 1000,
+    "z": 15.178932768808222
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.888,
+    "n": 1000,
+    "z": 24.539274642906626
+   },
+   "animate_subject_passive": {
+    "acc": 0.793,
+    "n": 1000,
+    "z": 18.530947088586707
+   }
+  }
+ },
+ "falcon-and-cc-qc-10p|20M|small-aux-3": {
+  "recipe": "falcon-and-cc-qc-10p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7818333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.752,
+    "n": 1000,
+    "z": 15.937879407248634
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.976,
+    "n": 1000,
+    "z": 30.104883324802973
+   },
+   "npi_present_1": {
+    "acc": 0.556,
+    "n": 1000,
+    "z": 3.5417509793885884
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.66,
+    "n": 1000,
+    "z": 10.119288512538816
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.953,
+    "n": 1000,
+    "z": 28.650235601125516
+   },
+   "animate_subject_passive": {
+    "acc": 0.794,
+    "n": 1000,
+    "z": 18.594192641790073
+   }
+  }
+ },
+ "falcon-and-cc-qc-20p|20M|default": {
+  "recipe": "falcon-and-cc-qc-20p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7886666666666666,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.799,
+    "n": 1000,
+    "z": 18.910420407806914
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.986,
+    "n": 1000,
+    "z": 30.737338856836647
+   },
+   "npi_present_1": {
+    "acc": 0.552,
+    "n": 1000,
+    "z": 3.2887687665751177
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.724,
+    "n": 1000,
+    "z": 14.16700391755434
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.887,
+    "n": 1000,
+    "z": 24.476029089703257
+   },
+   "animate_subject_passive": {
+    "acc": 0.784,
+    "n": 1000,
+    "z": 17.9617371097564
+   }
+  }
+ },
+ "falcon-and-cc-qc-20p|20M|small-aux-2": {
+  "recipe": "falcon-and-cc-qc-20p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7696666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.737,
+    "n": 1000,
+    "z": 14.989196109198119
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.549,
+    "n": 1000,
+    "z": 3.099032106965015
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.735,
+    "n": 1000,
+    "z": 14.862705002791383
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.824,
+    "n": 1000,
+    "z": 20.491559237891096
+   },
+   "animate_subject_passive": {
+    "acc": 0.793,
+    "n": 1000,
+    "z": 18.530947088586707
+   }
+  }
+ },
+ "falcon-and-cc-qc-20p|20M|small-aux-3": {
+  "recipe": "falcon-and-cc-qc-20p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7986666666666666,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.748,
+    "n": 1000,
+    "z": 15.684897194435163
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.982,
+    "n": 1000,
+    "z": 30.484356644023176
+   },
+   "npi_present_1": {
+    "acc": 0.638,
+    "n": 1000,
+    "z": 8.727886342064728
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.745,
+    "n": 1000,
+    "z": 15.49516053482506
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.887,
+    "n": 1000,
+    "z": 24.476029089703257
+   },
+   "animate_subject_passive": {
+    "acc": 0.792,
+    "n": 1000,
+    "z": 18.467701535383338
+   }
+  }
+ },
+ "falcon-and-cc-qc-orig-10p|20M|default": {
+  "recipe": "falcon-and-cc-qc-orig-10p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7581666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.74,
+    "n": 1000,
+    "z": 15.178932768808222
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.987,
+    "n": 1000,
+    "z": 30.800584410040017
+   },
+   "npi_present_1": {
+    "acc": 0.503,
+    "n": 1000,
+    "z": 0.18973665961010294
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.715,
+    "n": 1000,
+    "z": 13.59779393872403
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.829,
+    "n": 1000,
+    "z": 20.807787003907936
+   },
+   "animate_subject_passive": {
+    "acc": 0.775,
+    "n": 1000,
+    "z": 17.392527130926087
+   }
+  }
+ },
+ "falcon-and-cc-qc-orig-10p|20M|small-aux-2": {
+  "recipe": "falcon-and-cc-qc-orig-10p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.779,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.704,
+    "n": 1000,
+    "z": 12.902092853486986
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.983,
+    "n": 1000,
+    "z": 30.547602197226546
+   },
+   "npi_present_1": {
+    "acc": 0.595,
+    "n": 1000,
+    "z": 6.008327554319919
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.736,
+    "n": 1000,
+    "z": 14.925950555994751
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.864,
+    "n": 1000,
+    "z": 23.021381366025803
+   },
+   "animate_subject_passive": {
+    "acc": 0.792,
+    "n": 1000,
+    "z": 18.467701535383338
+   }
+  }
+ },
+ "falcon-and-cc-qc-orig-10p|20M|small-aux-3": {
+  "recipe": "falcon-and-cc-qc-orig-10p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7741666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.692,
+    "n": 1000,
+    "z": 12.143146215046574
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.98,
+    "n": 1000,
+    "z": 30.357865537616444
+   },
+   "npi_present_1": {
+    "acc": 0.645,
+    "n": 1000,
+    "z": 9.170605214488301
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.696,
+    "n": 1000,
+    "z": 12.396128427860045
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.875,
+    "n": 1000,
+    "z": 23.717082451262847
+   },
+   "animate_subject_passive": {
+    "acc": 0.757,
+    "n": 1000,
+    "z": 16.25410717326547
+   }
+  }
+ },
+ "falcon-and-cc-qc-tulu-10p|20M|default": {
+  "recipe": "falcon-and-cc-qc-tulu-10p",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7691666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.727,
+    "n": 1000,
+    "z": 14.356740577164441
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.973,
+    "n": 1000,
+    "z": 29.915146665192868
+   },
+   "npi_present_1": {
+    "acc": 0.528,
+    "n": 1000,
+    "z": 1.7708754896942942
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.684,
+    "n": 1000,
+    "z": 11.63718178941964
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.907,
+    "n": 1000,
+    "z": 25.740940153770612
+   },
+   "animate_subject_passive": {
+    "acc": 0.796,
+    "n": 1000,
+    "z": 18.72068374819681
+   }
+  }
+ },
+ "falcon-and-cc-qc-tulu-10p|20M|small-aux-2": {
+  "recipe": "falcon-and-cc-qc-tulu-10p",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.818,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.831,
+    "n": 1000,
+    "z": 20.93427811031467
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.981,
+    "n": 1000,
+    "z": 30.42111109081981
+   },
+   "npi_present_1": {
+    "acc": 0.621,
+    "n": 1000,
+    "z": 7.652711937607478
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.73,
+    "n": 1000,
+    "z": 14.546477236774544
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.945,
+    "n": 1000,
+    "z": 28.144271175498574
+   },
+   "animate_subject_passive": {
+    "acc": 0.8,
+    "n": 1000,
+    "z": 18.97366596101028
+   }
+  }
+ },
+ "falcon-and-cc-qc-tulu-10p|20M|small-aux-3": {
+  "recipe": "falcon-and-cc-qc-tulu-10p",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7621666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.797,
+    "n": 1000,
+    "z": 18.78392930140018
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.978,
+    "n": 1000,
+    "z": 30.23137443120971
+   },
+   "npi_present_1": {
+    "acc": 0.442,
+    "n": 1000,
+    "z": -3.66824208579532
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.652,
+    "n": 1000,
+    "z": 9.613324086911875
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.923,
+    "n": 1000,
+    "z": 26.752869005024493
+   },
+   "animate_subject_passive": {
+    "acc": 0.781,
+    "n": 1000,
+    "z": 17.772000450146294
+   }
+  }
+ },
+ "fineweb-edu|20M|default": {
+  "recipe": "fineweb-edu",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7401666666666666,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.711,
+    "n": 1000,
+    "z": 13.34481172591056
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.958,
+    "n": 1000,
+    "z": 28.966463367142353
+   },
+   "npi_present_1": {
+    "acc": 0.454,
+    "n": 1000,
+    "z": -2.9092954473549084
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.674,
+    "n": 1000,
+    "z": 11.004726257385963
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.902,
+    "n": 1000,
+    "z": 25.42471238775377
+   },
+   "animate_subject_passive": {
+    "acc": 0.742,
+    "n": 1000,
+    "z": 15.305423875214956
+   }
+  }
+ },
+ "fineweb-edu|20M|small-aux-2": {
+  "recipe": "fineweb-edu",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7173333333333334,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.596,
+    "n": 1000,
+    "z": 6.071573107523287
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.947,
+    "n": 1000,
+    "z": 28.27076228190531
+   },
+   "npi_present_1": {
+    "acc": 0.505,
+    "n": 1000,
+    "z": 0.3162277660168382
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.653,
+    "n": 1000,
+    "z": 9.676569640115243
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.857,
+    "n": 1000,
+    "z": 22.578662493602227
+   },
+   "animate_subject_passive": {
+    "acc": 0.746,
+    "n": 1000,
+    "z": 15.558406088028427
+   }
+  }
+ },
+ "fineweb-edu|20M|small-aux-3": {
+  "recipe": "fineweb-edu",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7284999999999999,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.591,
+    "n": 1000,
+    "z": 5.755345341506449
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.954,
+    "n": 1000,
+    "z": 28.713481154328882
+   },
+   "npi_present_1": {
+    "acc": 0.586,
+    "n": 1000,
+    "z": 5.43911757548961
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.637,
+    "n": 1000,
+    "z": 8.66464078886136
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.864,
+    "n": 1000,
+    "z": 23.021381366025803
+   },
+   "animate_subject_passive": {
+    "acc": 0.739,
+    "n": 1000,
+    "z": 15.115687215604854
+   }
+  }
+ },
+ "fineweb-pro|20M|default": {
+  "recipe": "fineweb-pro",
+  "size": "20M",
+  "seed": "default",
+  "revision": "step14584-seed-default",
+  "macro": 0.7303333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.617,
+    "n": 1000,
+    "z": 7.399729724794008
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.965,
+    "n": 1000,
+    "z": 29.40918223956593
+   },
+   "npi_present_1": {
+    "acc": 0.515,
+    "n": 1000,
+    "z": 0.9486832980505147
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.708,
+    "n": 1000,
+    "z": 13.155075066300457
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.843,
+    "n": 1000,
+    "z": 21.693224748755082
+   },
+   "animate_subject_passive": {
+    "acc": 0.734,
+    "n": 1000,
+    "z": 14.799459449588015
+   }
+  }
+ },
+ "fineweb-pro|20M|small-aux-2": {
+  "recipe": "fineweb-pro",
+  "size": "20M",
+  "seed": "small-aux-2",
+  "revision": "step14584-seed-small-aux-2",
+  "macro": 0.7631666666666667,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.662,
+    "n": 1000,
+    "z": 10.245779618945551
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.973,
+    "n": 1000,
+    "z": 29.915146665192868
+   },
+   "npi_present_1": {
+    "acc": 0.625,
+    "n": 1000,
+    "z": 7.905694150420949
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.667,
+    "n": 1000,
+    "z": 10.56200738496239
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.887,
+    "n": 1000,
+    "z": 24.476029089703257
+   },
+   "animate_subject_passive": {
+    "acc": 0.765,
+    "n": 1000,
+    "z": 16.760071598892413
+   }
+  }
+ },
+ "fineweb-pro|20M|small-aux-3": {
+  "recipe": "fineweb-pro",
+  "size": "20M",
+  "seed": "small-aux-3",
+  "revision": "step14584-seed-small-aux-3",
+  "macro": 0.7393333333333333,
+  "paradigms": {
+   "anaphor_gender_agreement": {
+    "acc": 0.686,
+    "n": 1000,
+    "z": 11.763672895826375
+   },
+   "determiner_noun_agreement_1": {
+    "acc": 0.976,
+    "n": 1000,
+    "z": 30.104883324802973
+   },
+   "npi_present_1": {
+    "acc": 0.454,
+    "n": 1000,
+    "z": -2.9092954473549084
+   },
+   "wh_questions_object_gap": {
+    "acc": 0.712,
+    "n": 1000,
+    "z": 13.408057279113928
+   },
+   "irregular_past_participle_verbs": {
+    "acc": 0.844,
+    "n": 1000,
+    "z": 21.756470301958448
+   },
+   "animate_subject_passive": {
+    "acc": 0.764,
+    "n": 1000,
+    "z": 16.696826045689043
+   }
+  }
+ }
+}
